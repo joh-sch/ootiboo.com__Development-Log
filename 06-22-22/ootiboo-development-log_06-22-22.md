@@ -2,12 +2,11 @@
 
 ## **06/22/2022**
 
-<br>
-
 _Resources List (Table component)_
 
 - impl. responsive behavior for resources list element by impl. a new `Table` component with proper responsive styling (scrollbar when element overflows screen)
 - researched responsive React tables
+- added reset for default browser `table` styles (allow custom styling)
 
 <br>
 
