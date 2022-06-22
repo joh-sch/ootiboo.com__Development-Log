@@ -14,3 +14,10 @@ _Housekeeping/Optimization_
 
 - created template for component stylesheet (`[COMPONENT].module.scss`) for faster component creation in the future
 - created template for component classname factory (`[COMPONENT].classnames.js`) for faster component creation in the future
+
+<br>
+
+_Misc._
+
+- checked-in with Amanda to resolve force-publishing of News and Creatives entries
+  - added [ISR](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration) to `/creatives/...` route
