@@ -2,6 +2,8 @@
 
 ## **06/23/2022**
 
+<br>
+
 _Resources List (Table component)_
 
 - added the missing content fields to Project Resources (Strapi):
@@ -14,7 +16,7 @@ _Resources List (Table component)_
 
 _Resource Page_
 
-- impl. page template for dynamic page route of project resources route `.../profile/school/resource/[ProjectID]`
+- created page template for dynamic page route of project resources route `.../profile/school/resource/[ProjectID]`
 
 <br>
 
