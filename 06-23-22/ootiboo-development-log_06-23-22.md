@@ -12,7 +12,17 @@ _Resources List (Table component)_
 
 <br>
 
+_Resource Page_
+
+- impl. page template for dynamic page route of project resources route `.../profile/school/resource/[ProjectID]`
+
+<br>
+
 _Housekeeping/Optimization_
+
+- impl. `Label` component for faster re-use/insertion of label elements
+- impl. `TYPE` property for `Tag` component (makes component more flexible, i.e. allows styling tag element with secondary colors)
+- intgr. new `Label` component in applicable page templates + deleted deprecated inline html/jsx
 
 <br>
 
